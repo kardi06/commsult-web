@@ -1,4 +1,4 @@
-# Welcome to [Project Name]
+# Welcome to The Web
 
 This website is built using Laravel as the programming language. The assets are located in the public folder, and the front end is located in the resource directory.
 
